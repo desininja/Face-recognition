@@ -36,6 +36,7 @@ APPLICATIONS OF FACE RECOGNITION:
 
 TOOLS FOR FACE RECOGNITION:
 * COMMERCIAL(requires sharing the data with cloud)
+
             -     Amazon Rekognition API
                         - available for face detection, emotion detection and motion tracking
 
